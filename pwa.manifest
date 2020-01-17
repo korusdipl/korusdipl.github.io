@@ -1,0 +1,14 @@
+{
+  "name": "Duke T3",
+  "short_name": "Duke T3",
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#6c757d",
+  "background_color":"#6c757d",
+  "icons": [
+    {
+      "src": "dh_horz_cmyk.png",
+      "sizes": "1200x1200",
+      "type": "image/png"
+    }]
+}
